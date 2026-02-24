@@ -1,0 +1,11 @@
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.csproj.AssemblyReference.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment_13.Form1.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment_13.Properties.Resources.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.csproj.GenerateResource.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\bin\Debug\Assignment 13.exe.config
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\bin\Debug\Assignment 13.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\bin\Debug\Assignment 13.pdb
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.pdb
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 13\Assignment 13\obj\Debug\Assignment 13.exe.config
